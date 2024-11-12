@@ -1,7 +1,7 @@
 - 👋 yola, I’m @SeekingMoon
-- 👀 I’m interested in ... Python
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... Nothing
-- 📫 How to reach me ... You dont
+- 👀 I’m interested in ... things
+- 🌱 I’m currently learning ... other things
+- 💞️ I’m looking to collaborate on ... better things
+- 📫 How to reach me ... email me
 
 
